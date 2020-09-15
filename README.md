@@ -1,6 +1,6 @@
 # Wheel-of-Fortune
 
-As part of the final Project of the Python Classes and Inheritance implemented a simplied version of the ***Wheel of Fortune*** game. This course is part of the Python 3 Programming Specialization offer by University of Michigan in Coursera. You can find more information at: https://www.coursera.org/learn/python-classes-inheritance/home/welcome
+As part of the final Project of the Python Classes and Inheritance implemented a simplified version of the ***Wheel of Fortune*** game. This course is part of the Python 3 Programming Specialization offer by University of Michigan in Coursera. You can find more information at: https://www.coursera.org/learn/python-classes-inheritance/home/welcome
 
 ## Details about the game:
 This project will take you through the process of implementing a simplified version of the game Wheel of Fortune.
